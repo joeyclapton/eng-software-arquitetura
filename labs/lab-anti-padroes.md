@@ -6,7 +6,7 @@ Leia o capítulo sobre Anti-padrões Arquiteturais do Livro de Engenharia de Sof
 Em seguida:
 
 - Descreva o que são Anti-padrões Arquiteturais. 
-Anti-padrões são arquitetura que não são recomendadas por ferir princípios de qualidade de software, como coesão e acomplamento.
+  - Anti-padrões são arquitetura que não são recomendadas por ferir princípios de qualidade de software, como coesão e acomplamento.
 
 - Descreva quais foram os desafios para manter um grande sistema bancário mencionado no livro, que possuia uma arquitetura em forma de "big ball of mud."
   - Dificuldade de manutenção
